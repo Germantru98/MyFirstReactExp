@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MyFirstReactExp/static/css/main.e98d77f7.chunk.css",
-    "main.js": "/MyFirstReactExp/static/js/main.0e8414b9.chunk.js",
-    "main.js.map": "/MyFirstReactExp/static/js/main.0e8414b9.chunk.js.map",
+    "main.css": "/MyFirstReactExp/static/css/main.e1e9ea6f.chunk.css",
+    "main.js": "/MyFirstReactExp/static/js/main.f581e0d3.chunk.js",
+    "main.js.map": "/MyFirstReactExp/static/js/main.f581e0d3.chunk.js.map",
     "runtime-main.js": "/MyFirstReactExp/static/js/runtime-main.d8b264f5.js",
     "runtime-main.js.map": "/MyFirstReactExp/static/js/runtime-main.d8b264f5.js.map",
     "static/js/2.c4b6d3c4.chunk.js": "/MyFirstReactExp/static/js/2.c4b6d3c4.chunk.js",
     "static/js/2.c4b6d3c4.chunk.js.map": "/MyFirstReactExp/static/js/2.c4b6d3c4.chunk.js.map",
     "index.html": "/MyFirstReactExp/index.html",
-    "precache-manifest.d9520491ae71f1df451bf4c060681f74.js": "/MyFirstReactExp/precache-manifest.d9520491ae71f1df451bf4c060681f74.js",
+    "precache-manifest.20f752dbf1944150f54e09ef73844fc1.js": "/MyFirstReactExp/precache-manifest.20f752dbf1944150f54e09ef73844fc1.js",
     "service-worker.js": "/MyFirstReactExp/service-worker.js",
-    "static/css/main.e98d77f7.chunk.css.map": "/MyFirstReactExp/static/css/main.e98d77f7.chunk.css.map",
+    "static/css/main.e1e9ea6f.chunk.css.map": "/MyFirstReactExp/static/css/main.e1e9ea6f.chunk.css.map",
     "static/js/2.c4b6d3c4.chunk.js.LICENSE.txt": "/MyFirstReactExp/static/js/2.c4b6d3c4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d8b264f5.js",
     "static/js/2.c4b6d3c4.chunk.js",
-    "static/css/main.e98d77f7.chunk.css",
-    "static/js/main.0e8414b9.chunk.js"
+    "static/css/main.e1e9ea6f.chunk.css",
+    "static/js/main.f581e0d3.chunk.js"
   ]
 }
